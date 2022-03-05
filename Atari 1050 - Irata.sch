@@ -280,10 +280,10 @@ Connection ~ 5350 4050
 Wire Wire Line
 	5350 4050 5350 3700
 $Comp
-L 74xx:74LS139 U?
+L 74xx:74LS139 U7
 U 1 1 6226CCAA
 P 3100 2350
-F 0 "U?" H 3100 2717 50  0000 C CNN
+F 0 "U7" H 3100 2717 50  0000 C CNN
 F 1 "74LS139" H 3100 2626 50  0000 C CNN
 F 2 "" H 3100 2350 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf" H 3100 2350 50  0001 C CNN
@@ -291,10 +291,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf" H 3100 2350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS139 U?
+L 74xx:74LS139 U7
 U 2 1 6226DDE8
 P 3100 1550
-F 0 "U?" H 3100 1917 50  0000 C CNN
+F 0 "U7" H 3100 1917 50  0000 C CNN
 F 1 "74LS139" H 3100 1826 50  0000 C CNN
 F 2 "" H 3100 1550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf" H 3100 1550 50  0001 C CNN
@@ -302,10 +302,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/sn74ls139a.pdf" H 3100 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 74xx:74LS42 U?
+L 74xx:74LS42 U4
 U 1 1 6226EA68
 P 3050 3850
-F 0 "U?" H 2800 4400 50  0000 C CNN
+F 0 "U4" H 2800 4400 50  0000 C CNN
 F 1 "74LS42" H 3300 4400 50  0000 C CNN
 F 2 "" H 3050 3850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS42" H 3050 3850 50  0001 C CNN
@@ -366,10 +366,10 @@ Wire Wire Line
 Wire Wire Line
 	5050 2450 3600 2450
 $Comp
-L 74xx:74LS30 U?
+L 74xx:74LS30 U8
 U 1 1 622B3855
 P 4750 4050
-F 0 "U?" H 4750 4575 50  0000 C CNN
+F 0 "U8" H 4750 4575 50  0000 C CNN
 F 1 "74LS30" H 4750 4484 50  0000 C CNN
 F 2 "" H 4750 4050 50  0001 C CNN
 F 3 "http://www.ti.com/lit/gpn/sn74LS30" H 4750 4050 50  0001 C CNN
