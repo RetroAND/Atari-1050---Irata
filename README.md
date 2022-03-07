@@ -8,4 +8,4 @@ I fear my unit was not an original Irata board, but a clone and as a result it h
 
 <b>Disclaimer (1):</b> The process was non-aggressive, so it was not dissassembled at all to study it. Therefore some traces may reamin undetected under the integrated circuits and not documented. Use it at your own risk.
 
-<b>Disclaimer (2):</b> This is a reverse-engineering work. The license only apply to the results of this study and does not claim property over the design.
+<b>Disclaimer (2):</b> This is a reverse-engineering work for study and preservation purposes. The license only apply to the results of this study and does not claim property over the original design or firmware.
